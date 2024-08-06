@@ -13,3 +13,6 @@
 [submodule "anypackage"]
 	path = anypackage
 	url = https://github.com/anypackage/anypackage
+[submodule "vlc"]
+	path = vlc
+	url = https://github.com/videolan/vlc

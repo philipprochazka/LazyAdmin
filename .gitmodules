@@ -10,3 +10,6 @@
 [submodule "windows-registry"]
 	path = windows-registry
 	url = https://github.com/letsdoautomation/windows-registry/
+[submodule "anypackage"]
+	path = anypackage
+	url = https://github.com/anypackage/anypackage

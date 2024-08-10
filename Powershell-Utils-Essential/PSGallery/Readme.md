@@ -1,9 +1,10 @@
+<h1 text-align="center">(ONEUI) Microsoft PACKAGE-MANAGEMENT & Powershell Gallery<h1>
 # I add the switch Trusted because I trust all the modules and scripts from Powershell Gallery
 Register-PSRepository -Default -InstallationPolicy Trusted
 
 Register-PSRepository -Name PSGallery -SourceLocation https://www.powershellgallery.com/api/v2/ -InstallationPolicy Trusted
 
-# I also add the Trusted switch
+# add the Trusted switch for Nuget
 Register-PackageSource -Name Nuget -Location "http://www.nuget.org/api/v2" –ProviderName Nuget -Trusted
 
 

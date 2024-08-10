@@ -16,3 +16,6 @@
 [submodule "vlc"]
 	path = vlc
 	url = https://github.com/videolan/vlc
+[submodule "Powershell-Utils-Essential/FileManagers/lf"]
+	path = Powershell-Utils-Essential/FileManagers/lf
+	url = https://github.com/philipprochazka/lf

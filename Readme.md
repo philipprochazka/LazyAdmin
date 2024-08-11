@@ -1,4 +1,4 @@
-<p align="Center"> <img src="https://github.com/philipprochazka/LazyAdmin/blob/gh-pages/Image/repository-Header_Image.png?raw=true" width="50%" alt="LazyAdmin" /> </p>
+<p align="Center"> <img src="https://github.com/philipprochazka/LazyAdmin/blob/gh-pages/Image/repository-Header_Image.png?raw=true" width="65%" alt="LazyAdmin" /> </p>
 
 LazyAdmin.nl Scripts Repository
 ================

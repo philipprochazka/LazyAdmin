@@ -1,8 +1,0 @@
-{
-  "AppId": {
-    "ClientId": "",
-    "ClientSecret": "",
-    "RedirectUrl": "https://localhost:8000",
-    "ResourceUrl": "https://graph.microsoft.com"
-  }
-}

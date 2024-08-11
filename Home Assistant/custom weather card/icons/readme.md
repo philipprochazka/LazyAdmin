@@ -1,1 +1,0 @@
-The .png Icons are designed by Lai Ming https://dribbble.com/shots/4447863-Weather-icons-free-download

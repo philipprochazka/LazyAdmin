@@ -1,0 +1,40 @@
+{"folders": [
+    {
+        "path": ".."
+    },
+    {
+        "path": "../../LazyAdmin.gh-pages"
+    },
+],
+"settings": {
+    "editor.autoClosingComments": "languageDefined",
+    	"editor.autoClosingBrackets": "languageDefined",
+    	"editor.autoClosingDelete": "never",
+    	"files.autoSave": "onFocusChange",
+    	"editor.fontSize": 14,
+    	"editor.fontFamily": "Consolas, 'Courier New', monospace",
+    	"editor.tabSize": 4,
+    	"editor.renderWhitespace": "selection",
+    	"editor.cursorStyle": "line",
+    	"editor.multiCursorModifier": "ctrlCmd",
+    	"editor.insertSpaces": true,
+    	"editor.wordWrap": "off",
+    	"files.exclude": {
+    	"**/.Obsidian": true,
+    	"**/.makemd":true,
+    	"**/.git": true,
+    	"**/.svn": true,
+    	"**/.hg": true,
+    	"**/CVS": true,
+    	"**/.DS_Store": true,
+    	"**/Thumbs.db": true
+},
+    "search.exclude": {
+        "**/.makemd":true,
+        "**/.git": true,
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true
+    },
+}
+}

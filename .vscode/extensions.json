@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "ms-vscode.powershell",
+        "mechatroner.rainbow-csv",
+        "unifiedjs.vscode-remark",
+        "yzhang.markdown-all-in-one",
+        "aaron-bond.better-comments",
+        "eamodio.gitlens",
+        "usernamehw.errorlens",
+        "sleistner.vscode-fileutils",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}

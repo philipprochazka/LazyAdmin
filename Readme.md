@@ -2,7 +2,7 @@
 
 # Anotation
 
-This repository contains a number of scripts that I have written or enhanced to make day-to-day life easier for system administators. These are provided for free to the community under an MIT License. An explantion or guide on how to use the scripts can be found on my blog LazyAdmin.nl
+This repository contains a number of scripts that I have written or enhanced to make day-to-day life easier for system Administrators. These are provided for free to the community under an MIT License. An explanation or guide on how to use some of the scripts can be found on Origin LazyAdmin.nl
 
 # Download the contents of this repository to your workstation.
 To use a script you can copy it onto your workstation and open the PowerShell window in that location. To read more about running PowerShell scripts, you can read this article: https://lazyadmin.nl/powershell/run-a-powershell-script/

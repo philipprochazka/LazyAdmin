@@ -1,20 +1,62 @@
-LazyAdmin.nl Scripts Repository
-================
+#LazyAdmin – Opinionated Branch 📦
+___________________________________
 
-This repository contains a number of scripts that I have written or enhanced to make day-to-day life easier for system administators. These are provided for free to the community under an MIT License. An explantion or guide on how to use the scripts can be found on my blog LazyAdmin.nl
+## Overview 🕶
+This branch serves as the main consolidation point for all upcoming feature expansions,  
+including Windows-dotfiles-expansion, PowerShell, VSCode, and others.
 
-# Download the contents of this repository to your workstation.
-To use a script you can copy it onto your workstation and open the PowerShell window in that location. To read more about running PowerShell scripts, you can read this article: https://lazyadmin.nl/powershell/run-a-powershell-script/
+## Purpose 🎈
+The opinionated branch represents a centralized monolith where different projects  
+and extension modules are merged for easier management and deployment.
 
-Launch PowerShell and make sure Set-ExecutionPolicy is set to RemoteSigned or Bypass
+## Structure 👀
+- *powershell-dotfiles-expansion*  
+  Contains PowerShell modules and configurations.
+- *windows-dotfiles-expansion*  
+  Windows-specific environment extensions.
+- *vscode-dotfiles-expansion*  
+  Configuration and extensions for Visual Studio Code.
 
-Learn how to write your own PowerShell script with this complete guide: https://lazyadmin.nl/powershell/powershell-script/
+## Workflow 🎶
+- Feature branches are created from opinionated for specific areas.
+- After completing changes, merges are done back into opinionated.
+- The upstream repository uses this branch as the main source.
 
-# Contribution
-Create a fork of the project into your own reposity. Make all your necessary changes and create a pull request with a description on what was added or removed and details explaining the changes in lines of code. If approved, I will merge it.
+## How to Use ⁉
+1. Clone the repository and switch to the `opinionated` branch  
+   bash
+   git clone https://github.com/philipprochazka/LazyAdmin.git
+   git checkout opinionated
+   ```
+2. Create feature branches from opinionated for new development.
+3. When finished, create pull requests back to opinionated.
+Contribution Guidelines
+- Maintain a clear folder and module structure.
+- Write commits using the format:
+  
+  [Type]: Short description of the change (max 50 chars)
+  
+  Detailed explanation of what and why.
+  
 
-# Licensing
-Licensed under the MIT License (the “License”); you may not use this file except in compliance with the License. 
+Highlights
 
-THE SOFTWARE (SCRIPTS) ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+- Modular layout supporting easy expansion and maintenance.
+
+Desired Structure Overview
+
+
+/Modules      – PowerShell modules
+/Config       – User/environment-specific configs
+/GitTools     – PowerShell-driven Git helpers
+/Docs         – Script notes or helper descriptions
+
+
+Notes
+
+This branch is under active consolidation. Expect frequent changes.  
+The main branch (master) remains untouched. Opinionated serves as the upstream base.
+
+---
+
+*Co-authored-by: Philip Procházka <ph.prochazka@gmail.com>

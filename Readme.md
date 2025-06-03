@@ -39,7 +39,7 @@ Contribution Guidelines
   Detailed explanation of what and why.
   
 
-Highlights
+## Highlights 🎉
 
 - Modular layout supporting easy expansion and maintenance.
 
